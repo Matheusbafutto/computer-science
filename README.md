@@ -122,7 +122,7 @@ Course|Duration
 
 Course|Duration
 :--|:--:
-[Software Testing](https://www.udacity.com/course/software-testing--cs258)| 4 weeks
+<strike>[Software Testing](https://www.udacity.com/course/software-testing--cs258)| 4 weeks</strike>
 [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)| 8 weeks
 
 ### Math
